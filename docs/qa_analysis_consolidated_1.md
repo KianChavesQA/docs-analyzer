@@ -26,4 +26,4 @@ As melhorias implementadas garantem que a experiência do usuário seja prioriza
 
 **Timestamp:** 2026-01-20  
 **PR Number:** 1  
-**Commit SHA:** [SHA será preenchido após commit]
+**Commit SHA:** dee4632e8f41dfdfcab837b288870ec11e629a2c
