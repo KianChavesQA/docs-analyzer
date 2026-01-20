@@ -1,7 +1,8 @@
 # Relatório de Otimização - Desempenho da Equipe QA
 
 ## Status Final do Projeto
-**Status Geral:** APROVADO
+**Status Geral:** REJEITADO
+**Justificativa:** O relatório apresenta lacunas significativas que impedem a validação adequada da cobertura de testes e critérios de aceitação.
 
 ## Melhorias Identificadas com Prioridade
 | Agente         | Melhorias Identificadas                                | Prioridade |
